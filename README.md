@@ -1,4 +1,4 @@
-# openpocket_tasks
+# Onepocket_tasks
 
 To run the server follow the steps:
   1. npm install
